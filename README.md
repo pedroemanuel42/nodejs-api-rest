@@ -1,6 +1,6 @@
 # nodejs-api-rest
 
-Projeto Node utilizand MongoDB
+Projeto Node utilizando MongoDB.
 
 ### Link
 
